@@ -10,6 +10,9 @@ namespace GitConsoleAppTest
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("this is some test");
+
         }
     }
 }
